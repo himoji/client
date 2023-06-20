@@ -8,7 +8,7 @@ public class TestClass {
 	@EventTarget
 	public void dd(ClientTickEvent e) {
 		
-		System.out.println("ti loh");
+		System.out.println("[TEST] init");
 		
 	}
 	
